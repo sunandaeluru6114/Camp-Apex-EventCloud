@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Camp-Apex-EventCloud",
+  "name": "Camp-Apex-EventCloud -test",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "59.0"
